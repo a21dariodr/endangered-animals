@@ -1,0 +1,212 @@
+[
+    {
+        "nombre": "Atún azul",
+        "nombreCientifico": "Thunnus thynnus",
+        "conservacion": "En peligro"
+    },
+    {
+        "nombre": "Ballena azul",
+        "nombreCientifico": "Balaenoptera musculus",
+        "conservacion": "En peligro"
+    },
+    {
+        "nombre": "Ballena gris",
+        "nombreCientifico": "Balaena mysticetus",
+        "conservacion": "Preocupación menor"
+    },
+    {
+        "nombre": "Beluga",
+        "nombreCientifico": "Delphinapterus leucas",
+        "conservacion": "Casi amenazado"
+    },
+    {
+        "nombre": "Berrendo",
+        "nombreCientifico": "Antilocarpa americana",
+        "conservacion": "Preocupación menor"
+    },
+    {
+        "nombre": "Bisón de las llanuras",
+        "nombreCientifico": "Bison bison bison",
+        "conservacion": "Casi amenazado"
+    },
+    {
+        "nombre": "Bonobo",
+        "nombreCientifico": "Pan paniscus",
+        "conservacion": "En peligro"
+    },
+    {
+        "nombre": "Canguro arborícola",
+        "nombreCientifico": "Dendrolagus sp.",
+        "conservacion": "Preocupación menor"
+    },
+    {
+        "nombre": "Delfín de Hector",
+        "nombreCientifico": "Cheilinus undulatus",
+        "conservacion": "En peligro"
+    },
+    {
+        "nombre": "Delfín nariz de botella",
+        "nombreCientifico": "Tursiops truncates",
+        "conservacion": "Preocupación menor"
+    },
+    {
+        "nombre": "Dugongo",
+        "nombreCientifico": "Dugong dugon",
+        "conservacion": "Vulnerable"
+    },
+    {
+        "nombre": "Elefante africano de bosque",
+        "nombreCientifico": "Loxodonta cyclotis",
+        "conservacion": "En peligro crítico"
+    },
+    {
+        "nombre": "Gorila de río",
+        "nombreCientifico": "Gorilla gorilla diehli",
+        "conservacion": "En peligro crítico"
+    },
+    {
+        "nombre": "Gorila oriental de tierras bajas",
+        "nombreCientifico": "Gorilla beringei graueri",
+        "conservacion": "En peligro crítico"
+    },
+    {
+        "nombre": "Gran tiburón blanco",
+        "nombreCientifico": "Carcharodon carcharias",
+        "conservacion": "Vulnerable"
+    },
+    {
+        "nombre": "Guacamayo",
+        "nombreCientifico": "Ara ararauna",
+        "conservacion": "Preocupación menor"
+    },
+    {
+        "nombre": "Hipopótamo",
+        "nombreCientifico": "Hippopotamus amphibius",
+        "conservacion": "Vulnerable"
+    },
+    {
+        "nombre": "Hurón de pies negros",
+        "nombreCientifico": "Mustela nigripes",
+        "conservacion": "En peligro"
+    },
+    {
+        "nombre": "Iguana marina",
+        "nombreCientifico": "Amblyrhynchus cristatus",
+        "conservacion": "Vulnerable"
+    },
+    {
+        "nombre": "Jaguar",
+        "nombreCientifico": "Panthera onca",
+        "conservacion": "Casi amenazado"
+    },
+    {
+        "nombre": "León marino",
+        "nombreCientifico": "Zalopus wollebaeki",
+        "conservacion": "En peligro"
+    },
+    {
+        "nombre": "Leopardo de Amur",
+        "nombreCientifico": "Panthera pardus orientalis",
+        "conservacion": "En peligro crítico"
+    },
+    {
+        "nombre": "Lobo ártico",
+        "nombreCientifico": "Canis lupus arctos",
+        "conservacion": "Preocupación menor"
+    },
+    {
+        "nombre": "Mariposa monarca",
+        "nombreCientifico": "Danaus plexippus",
+        "conservacion": "En peligro"
+    },
+    {
+        "nombre": "Narval",
+        "nombreCientifico": "Monodon monoceros",
+        "conservacion": "Preocupación menor"
+    },
+    {
+        "nombre": "Orangután",
+        "nombreCientifico": "Pongo abelii",
+        "conservacion": "En peligro crítico"
+    },
+    {
+        "nombre": "Oso polar",
+        "nombreCientifico": "Ursus maritimus",
+        "conservacion": "Vulnerable"
+    },
+    {
+        "nombre": "Pantera de las nieves",
+        "nombreCientifico": "Panthera uncia",
+        "conservacion": "Vulnerable"
+    },
+    {
+        "nombre": "Pingüino de las Galápagos",
+        "nombreCientifico": "Spehniscus mendiculus",
+        "conservacion": "En peligro"
+    },
+    {
+        "nombre": "Orangután de Borneo",
+        "nombreCientifico": "Pongo pygmeus",
+        "conservacion": "En peligro crítico"
+    },
+    {
+        "nombre": "Panda gigante",
+        "nombreCientifico": "Ailuropoda melanoleuca",
+        "conservacion": "Vulnerable"
+    },
+    {
+        "nombre": "Panda rojo",
+        "nombreCientifico": "Ailurus fulgens",
+        "conservacion": "En peligro"
+    },
+    {
+        "nombre": "Rinocronte blanco",
+        "nombreCientifico": "",
+        "conservacion": "Casi amenazado"
+    },
+    {
+        "nombre": "Rinoceronte de Java",
+        "nombreCientifico": "Rhinoceros sondaicus",
+        "conservacion": "En peligro crítico"
+    },
+    {
+        "nombre": "Rinoceronte negro",
+        "nombreCientifico": "Diceros bicornis",
+        "conservacion": "En peligro crítico"
+    },
+    {
+        "nombre": "Saola",
+        "nombreCientifico": "Pseudoryx nghetinhensis",
+        "conservacion": "En peligro crítico"
+    },
+    {
+        "nombre": "Tiburón ballena",
+        "nombreCientifico": "",
+        "conservacion": "En peligro"
+    },
+    {
+        "nombre": "Tigre de Sunda",
+        "nombreCientifico": "Panthera tigris sondaica",
+        "conservacion": "En peligro crítico"
+    },
+    {
+        "nombre": "Tortuga de Hawksbill",
+        "nombreCientifico": "Eretmochelys imbricata",
+        "conservacion": "En peligro crítico"
+    },
+    {
+        "nombre": "Tortuga gigante",
+        "nombreCientifico": "Chelonoidis niger",
+        "conservacion": "Vulnerable"
+    },
+    {
+        "nombre": "Vaquita",
+        "nombreCientifico": "Phocoeana sinus",
+        "conservacion": "En peligro crítico"
+    },
+    {
+        "nombre": "Zorro ártico",
+        "nombreCientifico": "Vulpes lagopus",
+        "conservacion": "Preocupación menor"
+    }
+]
